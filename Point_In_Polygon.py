@@ -1,9 +1,3 @@
-
-# CEGEG082: GIS Principles and Technology
-# Python Coursework: Point in polygon
-# Candidate number: XBZB9
-
-
 ###### WELCOME TO THIS POINT IN POLYGON TEST ALGORITHM ! ######
 
 
